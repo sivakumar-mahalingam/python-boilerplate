@@ -12,7 +12,6 @@ A comprehensive starter template for Python projects, designed to help you get u
 - **Documentation**: Starter files for project documentation.
 - **Source Code Organization**: Separate folders for main application code and modules.
 - **Testing**: Boilerplate for unit tests.
-- **Jupyter Notebooks**: Directory for including Jupyter notebooks.
 
 ## Getting Started
 
@@ -49,7 +48,6 @@ A comprehensive starter template for Python projects, designed to help you get u
 - Add any additional modules in the `src/module/` directory.
 - Write your unit tests in the `tests/` directory.
 - Store your data files in the `data/` directory.
-- Use Jupyter notebooks for experiments in the `notebooks/` directory.
 - Document your project in the `docs/` directory.
 
 ### Contributing
