@@ -1,4 +1,4 @@
-# python-boilerplate
+# Python Boilerplate
 
 A comprehensive starter template for Python projects, designed to help you get up and running quickly with a well-organized folder structure and essential configuration files. This boilerplate includes setup for managing dependencies, structuring your code, writing tests, and maintaining documentation.
 
