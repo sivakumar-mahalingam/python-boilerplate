@@ -50,10 +50,10 @@ A comprehensive starter template for Python projects, designed to help you get u
 - Store your data files in the `data/` directory.
 - Document your project in the `docs/` directory.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and open a pull request to suggest improvements or bug fixes.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
